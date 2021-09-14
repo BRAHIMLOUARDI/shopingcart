@@ -1,0 +1,26 @@
+.container{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  place-items: center;
+  background-color: gray;
+  padding-top: 50px;
+  padding-bottom: 50px;
+}
+.container div
+{
+  background-color: chartreuse;
+  font-size: 20px;
+  border: 1px solid black;
+  margin: 5px;
+  width: 40px;
+  text-align: center;
+}
+.div1
+{
+  animation-duration: 10ms;
+}
+.div2
+{
+  animation-duration: 10ms;
+}
